@@ -308,7 +308,7 @@ The analysis helps understand customer preferences, restaurant trends, and count
 ## 1. Clone the repository
 
 ```bash
-git clone <https://github.com/aot-abhishekyadav/zomato_EDA1>
+git clone <https://github.com/aot-abhishekyadav/zomato_EDA1/>
 ```
 
 ## 2. Install required libraries
